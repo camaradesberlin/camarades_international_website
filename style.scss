@@ -1,0 +1,91 @@
+/*-- scss:defaults --*/
+
+// Import Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&family=Roboto+Slab:wght@400;700&display=swap');
+
+// Variables
+$font-sans: 'Manrope', sans-serif;
+$font-serif: 'Roboto Slab', serif;
+
+// Colors
+// Variables$primary-color:   #81007F;
+// Variables$primary-hover:   #6a006a;
+// Variables$secondary-color: #FFAF1A;
+// Variables$secondary-hover: #e69919;
+$dark-gray: #343a4a; 
+$light-gray: #EBE9EA;
+$dark-blue: #0D65A4; 
+$purple: #81007F; 
+$yellow: #FFAF1A;
+
+$callout-color-tip: #FFAF1A;
+$callout-color-note:#81007F;
+$callout-color-important:#0D65A4; 
+
+
+// The left hand sidebar
+$grid-sidebar-width: 300px !default;
+
+
+// Base document colors
+$navbar-bg: $dark-gray; // navbar
+$sidebar-bg: $light-gray; //sidebar
+$link-color: $purple; //hyperlinks
+$footer-bg: $light-gray;
+$footer-fg: $dark-gray;
+
+
+/*-- scss:rules --*/
+
+body {
+  font-family: $font-sans;
+  color: #333;
+  line-height: 1.6;
+}
+
+h1, h2, h4, h5, h6 {
+  font-family: $font-serif;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  font-family: $font-serif;
+  margin-top: 0.3em;
+  margin-bottom: 0.5em;
+}
+
+
+// Link styling
+a {
+  color: $link-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// Button styling
+
+.hero-banner {
+  padding: 0.1em 0;
+  text-align: center;
+}
+
+.featured-resources {
+  background: $light-gray;
+  padding: 1rem;
+}
+
+
+/* grid for partner */
+.partner-grid {
+  margin: 1em 0;
+}
+
+
+.navbar-logo {
+  max-height: 50px;
+}
+/*-- scss:defaults --*/

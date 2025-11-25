@@ -1,0 +1,71 @@
+---
+title: "Education & Workshops"
+listing: 
+  id: workshops
+  contents: 
+    - "workshops/*.qmd"
+  type: table
+  sort: "date"
+  fields: [date, title, delivery]
+  filter-ui: [date, delivery]
+  categories: true
+---
+
+A **systematic review** is a rigorous method for summarising all available studies on a research question:
+
+-   Supports evidence-based decisions by providing an unbiased assessment of all available data
+
+-   Identifies effective interventions in translational biomedicine
+
+-   Provides a comprehensive, data-driven overview of the literature  
+
+Want to learn more about systematic review? Check out our resources below!
+
+![](/images/COReS_edu_low.jpg){width=100% fig-align="center"}
+
+
+# Workshops 
+
+Below we list our workshops. 
+
+::: {#workshops}
+:::
+
+
+
+# eLearning
+
+Want to learn at your own pace? Our free eLearning modules let you master systematic reviews with interactive quizzes and exercises. Key topics covered in the series include:
+
+::::: grid
+::: g-col-6
+-   Introduction to Systematic Review
+
+-   Systematic literature searching
+
+-   Defining a Research Question
+
+-   Protocol Development
+:::
+
+::: g-col-6
+
+-   Citation Screening & Eligibility Criteria
+
+-   Critical Appraisal of Animal Studies
+
+-   Data Extraction
+
+-   Meta-analysis of Data from Animal Studies
+:::
+:::::
+
+**Start your self-paced journey**
+
+[{{< fa arrow-up-right-from-square >}} Go to eLearning platform](https://elearning.camarades.net/){.btn .btn-secondary target="_blank"}
+
+::: {.callout-tip icon="false"}
+## {{< fa file-circle-plus >}} Need Log-in Support?
+
+We've prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform. [{{< fa file-circle-plus >}} Click here to view the Moodle Log-in Guide](/files/CAMARADES.net eLearning Userguide.pdf){target="_blank"}
+:::

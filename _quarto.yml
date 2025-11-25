@@ -2,15 +2,41 @@ project:
   type: website
 
 website:
-  title: "CAMARADES International"
+  title: "CAMARADES"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About CAMARADES
+      - href: education.qmd
+        text: SR Education 
+      - href: resources.qmd
+        text: Resources for SR
+      - text: "Synthesis-Ready Research"
+        menu: 
+          - text: "Synthesis-Ready Research"
+            href: synthesis-ready.qmd
+          - text: "---"
+          - text: Design
+            href: synthesis/design.qmd
+          - text: "---"
+          - text: Register
+            href: synthesis/preregister.qmd
+          - text: "---"
+          - text: Disseminate
+            href: synthesis/disseminate.qmd
+    tools: 
+      - icon: github
+        menu: 
+          - text: Berlin
+            href: https://github.com/camaradesberlin/
+          - text: UK
+            href: https://github.com/camaradesuk/ 
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - sandstone
+      - style.scss
     toc: true

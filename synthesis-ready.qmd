@@ -1,0 +1,15 @@
+---
+title: "What is Synthesis-Ready Research?"
+format: html
+sidebar: Synthesis-Ready
+---
+
+Synthesis-ready primary animal research refers to in vivo studies that are designed, conducted and reported to facilitate seamless inclusion in systematic reviews and meta-analyses.
+
+Key features include clear articulation of objectives, standardised protocols with registration before the experiment begins, appropriate randomisation and blinding, robust sample size justification, and transparent presentation of all outcomes and underlying data.
+
+By adhering to established reporting guidelines and open-science principles, synthesis-ready research enhances reproducibility, reduces bias and accelerates the translation of preclinical findings into evidence-based advances.
+
+![](/images/COReS_community.jpg){width="80%" fig-align="center"}
+
+*Image by [Meike Latz](https://meikelatz.com/){target="_blank"}*

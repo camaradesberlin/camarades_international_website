@@ -1,5 +1,31 @@
 ---
-title: "index"
+title: "CAMARADES International Network"
 format: html
 ---
 
+![](/images/CAMARADES_logo.jpg){width=100% fig-align="center"}
+
+Welcome to the website for the CAMARADES International Network! 
+
+The CAMARADES research group comprises world-leading preclinical meta-research scientists who aim to bring evidence to translational medicine.
+
+## Bringing evidence to translational medicine
+The Collaborative Approach to Meta Analysis and Review of Animal Data from Experimental Studies (CAMARADES) research group was founded in 2004 by Malcolm Macleod and David Howells, aiming to address translational failures in preclinical stroke research using systematic review and meta-analysis. Since then, the CAMARADES have broadened their scope to other disease models such as neuropathic pain, neuropsychiatric conditions and Alzheimer's disease.
+
+The CAMARADES has pioneered in the field of preclinical systematic review, and in addition to carrying out their own research, provide a supportive framework for other research groups performing systematic review.
+
+## Mission and strategies
+
+### Missions
+
+- Improve the validity of preclinical research 
+- Increase the value of preclinical research 
+- Improve translation from preclinical research to the clinic  
+
+### Strategies 
+
+- Conducting meta-research including systematic reviews and meta-analyses to investigate experimental validity across different preclinical research domains 
+- Developing guidance and providing methodological support for systematic review and meta-analysis of preclinical data 
+- Developing our own systematic review platform, specifically designed for preclinical systematic reviews
+- Developing new automation tools to assist systematic reviews and meta-analyses
+- Promoting the sharing of data and data analysis tools 

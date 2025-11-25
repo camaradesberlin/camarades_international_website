@@ -1,0 +1,24 @@
+---
+title: "Introduction to Systematic Review & Meta-Analysis of Animal Studies"
+delivery: "Synchronous"
+# description: "This is a workshop about stuff. "
+#      started: "Dec 2024"
+#      format: "Synchronous"
+country: "Online"
+date: "2025-11-10"
+---
+
+**Introduction to Systematic Review & Meta-Analysis of Animal Studies**
+
+Through a mix of lectures and hands-on practical activities and tutorials across 3 half days, you will learn the major steps required to undertake a systematic review and meta-analysis of preclinical animal studies.
+
+-   **Course language:** English </br>
+-   **Location:** online via Teams </br>
+-   **ECTS:** 0.9 ECTS points are awarded for this course. A certificate will be provided upon successful completion of the workshop. </br>
+-   **ATF-Stunden:** This workshop accounts for 11 hours of continuing education. </br>
+
+We have summarized the main points of the workshop in this [cheat sheet](/files/CheatSheet_IntroSRworkshop_2023.pdf){target="_blank"}.
+
+::: button
+[{{< fa arrow-up-right-from-square >}} Info & Register](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/events/course/introduction-to-systematic-review-meta-analysis-of-animal-studies){.btn .btn-secondary target="_blank"}
+:::

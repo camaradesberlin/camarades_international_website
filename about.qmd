@@ -1,5 +1,77 @@
 ---
-title: "about"
+title: "About CAMARADES"
 format: html
 ---
+
+CAMARADES collaborates with researchers all around the world, including:
+
+- meta-researchers
+- preclinical researchers
+- clinicians
+- pharmaceutical companies
+- publishers
+- funders
+- policymakers 
+
+Our shared goal is to improve the validity and value of preclinical models of human diseases to develop effective therapies.  
+
+
+
+# National Coordinating Centres
+
+
+## Germany
+
+**BIH QUEST Center for Transforming Biomedical Research,  Charité- Universitätsmedizin Berlin**
+
+[BIH QUEST Center CAMARADES web page](https://www.bihealth.org/en/research/quest-center/service/camarades/){target="_blank"}
+
+
+## Brazil 
+
+**Universidade Federal de Santa Catarina**
+
+[CAMARADES Brazil web site (Portuguese)](https://camaradesbrasil.bio.br/){target="_blank"}
+
+
+## The Netherlands
+
+**Radboud University Medical Center, Nijmegen**
+
+[Meta-research team web page](https://www.radboudumc.nl/en/research/departments/anesthesiology/meta-research-team){target="_blank"}
+
+
+## Switzerland
+
+**CAMARADES Switzerland**
+
+[CAMARADES Switzerland web site](https://camarades.ch/){target="_blank"}
+
+
+## United States
+
+**University of California San Francisco**
+
+[University of California San Francisco web site](https://www.ucsf.edu/){target="_blank"}
+
+
+## Canada
+
+**Ottawa Hospital Research Institute, Canada**
+
+[Ottawa Hospital Research Institute web site](http://www.ohri.ca/){target="_blank"}
+
+
+## Turkey
+
+**Baskent Univeristy**
+
+Link to follow. 
+
+
+## Want to join the international network? 
+
+Are you interested in furthering the mission and vision of CAMARADES in your country? 
+
+[Contact Us](mailto:camarades.berlin@charite.de) to find out more. 
 

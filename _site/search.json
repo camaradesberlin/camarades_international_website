@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "workshops/intro-to-sr-berlin.html",
+    "href": "workshops/intro-to-sr-berlin.html",
+    "title": "Introduction to Systematic Review & Meta-Analysis of Animal Studies",
+    "section": "",
+    "text": "Introduction to Systematic Review & Meta-Analysis of Animal Studies\nThrough a mix of lectures and hands-on practical activities and tutorials across 3 half days, you will learn the major steps required to undertake a systematic review and meta-analysis of preclinical animal studies.\n\nCourse language: English \nLocation: online via Teams \nECTS: 0.9 ECTS points are awarded for this course. A certificate will be provided upon successful completion of the workshop. \nATF-Stunden: This workshop accounts for 11 hours of continuing education. \n\nWe have summarized the main points of the workshop in this cheat sheet.\n\n Info & Register"
+  },
+  {
+    "objectID": "synthesis/preregister.html",
+    "href": "synthesis/preregister.html",
+    "title": "Preregister Your Animal Experiment",
+    "section": "",
+    "text": "Preregistering animal experiments means publicly recording your study’s aims, design, and analysis plan before you begin. This simple step boosts transparency and reproducibility, helping reviewers identify unpublished or selective results and assess the risk of bias more reliably. It also prevents needless duplication, honouring the 3Rs by reducing animal use, and lays a stronger foundation for systematic reviews and meta-analyses. Ultimately, preregistration enhances the ethical and scientific rigour of preclinical research, improving its predictiveness for human studies."
+  },
+  {
+    "objectID": "synthesis/preregister.html#preclinicaltrials.eu",
+    "href": "synthesis/preregister.html#preclinicaltrials.eu",
+    "title": "Preregister Your Animal Experiment",
+    "section": "PreclinicalTrials.EU",
+    "text": "PreclinicalTrials.EU\n\n\n\n\n\n\n\n\n\nPreclinicalTrials.EU  is a central platform for registering preclinical animal studies.\n\n\nFeatures\n\n\nEnhanced transparency: Prospective registration to reveal unpublished studies.\n\nAvoid duplication: View existing studies to prevent redundant work.\n\nReduce reporting bias: Mitigates publication bias and p-hacking.\n\nFacilitate data sharing: Full study designs and data archives.\n\nCollaborative research: Connect across biomedical fields.\n\n\n\n\nLinks & Resources\n\n\nGot questions? See their FAQs section .\n\nIn-depth protocol guide: User Guide (PDF) ."
+  },
+  {
+    "objectID": "synthesis/preregister.html#animal-study-registry",
+    "href": "synthesis/preregister.html#animal-study-registry",
+    "title": "Preregister Your Animal Experiment",
+    "section": "Animal Study Registry",
+    "text": "Animal Study Registry\n\nAnimalStudyRegistry.org  lets you preregister animal‐based research, timestamped & citable via DOI.\n\n\nFeatures\n\n\nEnhanced transparency: Full protocol disclosure.\n\nAnimal welfare: Encourages refinement methods to reduce harm.\n\nIntellectual property: DOI & timestamp for your protocol.\n\nCredibility: Builds trust in open science practices.\n\nTime-saving: Templates cover ARRIVE guidelines essentials.\n\n\n\n\nLinks & Resources\n\n\nLearn more on the platform homepage  and register here .\n\nBrowse existing registries ."
+  },
+  {
+    "objectID": "synthesis/preregister.html#conducting-experiments-transparently---electronic-lab-notebook",
+    "href": "synthesis/preregister.html#conducting-experiments-transparently---electronic-lab-notebook",
+    "title": "Preregister Your Animal Experiment",
+    "section": "Conducting Experiments Transparently - Electronic Lab Notebook",
+    "text": "Conducting Experiments Transparently - Electronic Lab Notebook\nAn electronic lab notebook is a digital platform for documenting experiments, managing protocols, and storing data. It enables real-time collaboration and integrates analytics, inventory, and specialised databases.\n\nData Integrity: Secure, retrievable storage.\n\nCollaboration: Share data & findings instantly.\n\nRegulatory Adherence: Built-in compliance with research standards.\n\nStreamlined Workflow: Templates & integrated tools.\n\n\nResources for LabFolder - an electronic lab notebook tool\n\nLearn more about LabFolder \n\nAccess training on LabFolder"
+  },
+  {
+    "objectID": "synthesis/design.html",
+    "href": "synthesis/design.html",
+    "title": "Design Experiments",
+    "section": "",
+    "text": "Transparent, high-quality experimental design in animal studies, underpinned by rigorous internal validity, allows systematic reviews to reliably summarise evidence. By detailing eligibility criteria, randomisation, blinding and sample size calculations up front, researchers minimise bias and ensure that reported effects genuinely reflect the interventions under study. This clarity enables systematic reviewers to assess study quality accurately, pool data with confidence and draw robust conclusions. Ultimately, well-designed, transparent experiments not only strengthen the scientific and ethical foundations of preclinical research but also improve its translational value."
+  },
+  {
+    "objectID": "synthesis/design.html#experimental-design-assistant",
+    "href": "synthesis/design.html#experimental-design-assistant",
+    "title": "Design Experiments",
+    "section": "Experimental Design Assistant",
+    "text": "Experimental Design Assistant\n\n\n\n\n\n\n\n\n\nThe Experimental Design Assistant (EDA) is a free online tool developed by NC3Rs  to help researchers in designing experiments that meet scientific rigor while adhering to ethical guidelines for minimising animal use. It also provides guidance on reducing subjective bias and selecting appropriate statistical methods.\n\n\nFeatures\n\n\nEthical Guidance: Advice and feedback on plans to minimise animal use.\nVisual Representation: Diagrammatic notation for experimental plans, with critiquing.\nComprehensive Feedback: Tailored statistical and design recommendations.\nResource Optimisation: Helps plan efficient experiments, saving time and resources.\nStatistical Guidance: Sample size calculations, randomisation, blinding.\n\n\n\n\nHow to get started\n\n\nRefer to the EDA User Guide  for a walkthrough.\nBegin immediately in the Process Guide ."
+  },
+  {
+    "objectID": "synthesis/design.html#internal-validity-of-preclinical-studies",
+    "href": "synthesis/design.html#internal-validity-of-preclinical-studies",
+    "title": "Design Experiments",
+    "section": "Internal validity of preclinical studies",
+    "text": "Internal validity of preclinical studies\nLearn about the importance of internal validity preclinical experiments with Dr Kim Wever (Radboud UMC, NL):"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CAMARADES International Network",
+    "section": "",
+    "text": "Welcome to the website for the CAMARADES International Network!\nThe CAMARADES research group comprises world-leading preclinical meta-research scientists who aim to bring evidence to translational medicine."
+  },
+  {
+    "objectID": "index.html#bringing-evidence-to-translational-medicine",
+    "href": "index.html#bringing-evidence-to-translational-medicine",
+    "title": "CAMARADES International Network",
+    "section": "Bringing evidence to translational medicine",
+    "text": "Bringing evidence to translational medicine\nThe Collaborative Approach to Meta Analysis and Review of Animal Data from Experimental Studies (CAMARADES) research group was founded in 2004 by Malcolm Macleod and David Howells, aiming to address translational failures in preclinical stroke research using systematic review and meta-analysis. Since then, the CAMARADES have broadened their scope to other disease models such as neuropathic pain, neuropsychiatric conditions and Alzheimer’s disease.\nThe CAMARADES has pioneered in the field of preclinical systematic review, and in addition to carrying out their own research, provide a supportive framework for other research groups performing systematic review."
+  },
+  {
+    "objectID": "index.html#mission-and-strategies",
+    "href": "index.html#mission-and-strategies",
+    "title": "CAMARADES International Network",
+    "section": "Mission and strategies",
+    "text": "Mission and strategies\n\nMissions\n\nImprove the validity of preclinical research\nIncrease the value of preclinical research\nImprove translation from preclinical research to the clinic\n\n\n\nStrategies\n\nConducting meta-research including systematic reviews and meta-analyses to investigate experimental validity across different preclinical research domains\nDeveloping guidance and providing methodological support for systematic review and meta-analysis of preclinical data\nDeveloping our own systematic review platform, specifically designed for preclinical systematic reviews\nDeveloping new automation tools to assist systematic reviews and meta-analyses\nPromoting the sharing of data and data analysis tools"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About CAMARADES",
+    "section": "",
+    "text": "CAMARADES collaborates with researchers all around the world, including:\nOur shared goal is to improve the validity and value of preclinical models of human diseases to develop effective therapies."
+  },
+  {
+    "objectID": "about.html#germany",
+    "href": "about.html#germany",
+    "title": "About CAMARADES",
+    "section": "Germany",
+    "text": "Germany\nBIH QUEST Center for Transforming Biomedical Research, Charité- Universitätsmedizin Berlin\nBIH QUEST Center CAMARADES web page"
+  },
+  {
+    "objectID": "about.html#brazil",
+    "href": "about.html#brazil",
+    "title": "About CAMARADES",
+    "section": "Brazil",
+    "text": "Brazil\nUniversidade Federal de Santa Catarina\nCAMARADES Brazil web site (Portuguese)"
+  },
+  {
+    "objectID": "about.html#the-netherlands",
+    "href": "about.html#the-netherlands",
+    "title": "About CAMARADES",
+    "section": "The Netherlands",
+    "text": "The Netherlands\nRadboud University Medical Center, Nijmegen\nMeta-research team web page"
+  },
+  {
+    "objectID": "about.html#switzerland",
+    "href": "about.html#switzerland",
+    "title": "About CAMARADES",
+    "section": "Switzerland",
+    "text": "Switzerland\nCAMARADES Switzerland\nCAMARADES Switzerland web site"
+  },
+  {
+    "objectID": "about.html#united-states",
+    "href": "about.html#united-states",
+    "title": "About CAMARADES",
+    "section": "United States",
+    "text": "United States\nUniversity of California San Francisco\nUniversity of California San Francisco web site"
+  },
+  {
+    "objectID": "about.html#canada",
+    "href": "about.html#canada",
+    "title": "About CAMARADES",
+    "section": "Canada",
+    "text": "Canada\nOttawa Hospital Research Institute, Canada\nOttawa Hospital Research Institute web site"
+  },
+  {
+    "objectID": "about.html#turkey",
+    "href": "about.html#turkey",
+    "title": "About CAMARADES",
+    "section": "Turkey",
+    "text": "Turkey\nBaskent Univeristy\nLink to follow."
+  },
+  {
+    "objectID": "about.html#want-to-join-the-international-network",
+    "href": "about.html#want-to-join-the-international-network",
+    "title": "About CAMARADES",
+    "section": "Want to join the international network?",
+    "text": "Want to join the international network?\nAre you interested in furthering the mission and vision of CAMARADES in your country?\nContact Us to find out more."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education & Workshops",
+    "section": "",
+    "text": "A systematic review is a rigorous method for summarising all available studies on a research question:\n\nSupports evidence-based decisions by providing an unbiased assessment of all available data\nIdentifies effective interventions in translational biomedicine\nProvides a comprehensive, data-driven overview of the literature\n\nWant to learn more about systematic review? Check out our resources below!\n\n\n\n\n\n\nWorkshops\nBelow we list our workshops.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\ndelivery\n\n\n\n\n\n\n\n\nNov 10, 2025\n\n\nIntroduction to Systematic Review & Meta-Analysis of Animal Studies\n\n\nSynchronous\n\n\n\n\n\n\nNo matching items\n\n\n\neLearning\nWant to learn at your own pace? Our free eLearning modules let you master systematic reviews with interactive quizzes and exercises. Key topics covered in the series include:\n\n\n\nIntroduction to Systematic Review\nSystematic literature searching\nDefining a Research Question\nProtocol Development\n\n\n\n\nCitation Screening & Eligibility Criteria\nCritical Appraisal of Animal Studies\nData Extraction\nMeta-analysis of Data from Animal Studies\n\n\n\nStart your self-paced journey\n Go to eLearning platform\n\n\n\n\n\n\n Need Log-in Support?\n\n\n\nWe’ve prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform.  Click here to view the Moodle Log-in Guide"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources for Systematic Reviews",
+    "section": "",
+    "text": "Getting into systematic reviews can feel like a big step, but you don’t have to do it alone. Here you’ll find a handy Wiki to guide your methods, easy-to-use software like SyRF, live drop-ins and one-to-one support, plus a welcoming community to collaborate with. Everything you need to get started, and keep going, is right here."
+  },
+  {
+    "objectID": "synthesis/disseminate.html",
+    "href": "synthesis/disseminate.html",
+    "title": "Disseminate Primary Research",
+    "section": "",
+    "text": "Openly disseminating research in a transparent manner is crucial for advancing systematic reviews and evidence-based decision making. It enables the synthesis of diverse studies, providing a comprehensive analysis of existing evidence. This transparency promotes results reproducibility and ensures an accurate assessment of knowledge on a particular topic. Accessible and synthesisable research empowers decision-makers and contributes to the development of informed policies and practices. By openly sharing methodologies, data, and outcomes, researchers create a collaborative knowledge ecosystem that fosters trust and enhances the reliability and relevance of evidence in decision-making processes.\n\nOpen Data\n\nOpen Data Commons\nOpen Data Commons is a data sharing portal and repository for data in specific disease domains. The Open Data Commons portal:\n\nShare data with your colleagues in a protected space and publish data publicly with a DOI.\n\nSupports compliance with the FAIR data principles to ensure data is Findable, Accessible, Interoperable and Reusable.\n\nPromotes transparency and reproducibility for our common goal to find cures for serious medical conditions.\n\nAllows the community to meet increasing funder and journal data sharing requirements.\n\n\n\n\n\n\n\n\n\n ODC-SCI\n\n\n\nSpinal Cord Injury\nhttps://odc-sci.org/ \n\n\n\n\n\n\n\n\n\n\n ODC-TBI\n\n\n\nTraumatic Brain Injury\nhttps://odc-tbi.org/ \n\n\n\n\n\n\n\n\n\n\n ODC-Stroke\n\n\n\nComing Soon\n\n\n\n\n\n\n\n\nOpen Methods\n\nProtocols.io\n\n\n\n\n\nProtocols.io is a collaborative platform designed to facilitate the sharing of research protocols and methods. It serves as a centralised repository where researchers can publish, discover, and discuss experimental techniques across various scientific disciplines with ease and efficiency.\n\nCollaboration: Enables researchers to collaborate on protocols and share expertise.\nReproducibility: Enhances the reproducibility of experiments by offering detailed, version-controlled protocols.\nVisibility: Increases the visibility and impact of your research methods, as each protocol can be cited with a DOI.\nExperiment Tracking: Run protocols as checklists and record changes in your File Manager, which you can choose to keep private or share.\nQuality Control: Protocols are peer-reviewed, ensuring a high standard of scientific rigor.\n\nInterested in mastering Protocols.io? Check out the Tutorials  for quick, insightful guides on using the platform effectively."
+  },
+  {
+    "objectID": "synthesis-ready.html",
+    "href": "synthesis-ready.html",
+    "title": "What is Synthesis-Ready Research?",
+    "section": "",
+    "text": "Synthesis-ready primary animal research refers to in vivo studies that are designed, conducted and reported to facilitate seamless inclusion in systematic reviews and meta-analyses.\nKey features include clear articulation of objectives, standardised protocols with registration before the experiment begins, appropriate randomisation and blinding, robust sample size justification, and transparent presentation of all outcomes and underlying data.\nBy adhering to established reporting guidelines and open-science principles, synthesis-ready research enhances reproducibility, reduces bias and accelerates the translation of preclinical findings into evidence-based advances.\n\n\n\n\n\nImage by Meike Latz"
+  },
+  {
+    "objectID": "resources.html#systematic-review-wiki",
+    "href": "resources.html#systematic-review-wiki",
+    "title": "Resources for Systematic Reviews",
+    "section": "Systematic Review Wiki",
+    "text": "Systematic Review Wiki\n\n\n\n\n\n\n\n\n\nOur wiki resources on systematic review are designed to support you in conducting comprehensive and reliable reviews. You will find a wealth of information, including helpful references, to guide you through the process and ensure your reviews are thorough and well-informed.\n Take me to the wiki"
+  },
+  {
+    "objectID": "resources.html#software-for-systematic-review---syrf",
+    "href": "resources.html#software-for-systematic-review---syrf",
+    "title": "Resources for Systematic Reviews",
+    "section": "Software for Systematic Review - SyRF",
+    "text": "Software for Systematic Review - SyRF\n\n\n\n\n\n\n\n\n\nLooking for a flexible systematic review software tailored for animal research? SyRF streamlines the systematic review process, and supports collaborative projets, saving you time and effort. Create your free account today.\n\n\n\n\n\n\n SyRF - Systematic Review Facility\n\n\n\n Take me to SyRF\nFor guidance on how to use the platform, tutorials, and step-by-step instructions, please see the extensive help guide. \nGot a question? – Ask at the next drop-in session!"
+  },
+  {
+    "objectID": "resources.html#support",
+    "href": "resources.html#support",
+    "title": "Resources for Systematic Reviews",
+    "section": "Support",
+    "text": "Support\n\n\n\n\n\n\n\n\n\n\nDrop-in Session\nGot a quick question? Join our weekly drop-in support session for expert guidance and assistance. Improve your skills and get unparalleled support. Mark your calendar and join us this week!\nWhen is the next drop-in? →\n\n\nOne-to-One Methodological Consultation\nNeed some personalised guidance and support? Book a one-to-one support meeting. Our team of methodology experts is ready to provide you with tailored assistance to take your systematic review to the next stage. Book your session now!\n Book a consultation"
+  },
+  {
+    "objectID": "resources.html#find-a-collaborator-for-your-next-review",
+    "href": "resources.html#find-a-collaborator-for-your-next-review",
+    "title": "Resources for Systematic Reviews",
+    "section": "Find a collaborator for your next review",
+    "text": "Find a collaborator for your next review\nFind collaborators and discuss your project on the Communities for Open Research Synthesis (COReS) community forum, Zulip. Make a free account and start chatting.\nFind out more about the discussion forum →"
+  },
+  {
+    "objectID": "resources.html#meet-new-collaborators-at-weekly-calls",
+    "href": "resources.html#meet-new-collaborators-at-weekly-calls",
+    "title": "Resources for Systematic Reviews",
+    "section": "Meet new collaborators at weekly calls",
+    "text": "Meet new collaborators at weekly calls\nJoin weekly calls to share progress on your systematic review projects.\nWhen is the next CAMARADES call? →"
+  }
+]
