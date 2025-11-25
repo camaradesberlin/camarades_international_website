@@ -8,7 +8,7 @@ $font-sans: 'Manrope', sans-serif;
 $font-serif: 'Roboto Slab', serif;
 
 // Colors
-// Variables$primary-color:   #81007F;
+$primary-color:  #203457;
 // Variables$primary-hover:   #6a006a;
 // Variables$secondary-color: #FFAF1A;
 // Variables$secondary-hover: #e69919;
@@ -17,9 +17,10 @@ $light-gray: #EBE9EA;
 $dark-blue: #0D65A4; 
 $purple: #81007F; 
 $yellow: #FFAF1A;
+$syrf-blue: #203457;
 
-$callout-color-tip: #FFAF1A;
-$callout-color-note:#81007F;
+$callout-color-tip: #63718a;
+$callout-color-note:#203457;
 $callout-color-important:#0D65A4; 
 
 
@@ -30,7 +31,7 @@ $grid-sidebar-width: 300px !default;
 // Base document colors
 $navbar-bg: $dark-gray; // navbar
 $sidebar-bg: $light-gray; //sidebar
-$link-color: $purple; //hyperlinks
+$link-color: $dark-blue; //hyperlinks
 $footer-bg: $light-gray;
 $footer-fg: $dark-gray;
 

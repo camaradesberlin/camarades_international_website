@@ -154,20 +154,6 @@
     "text": "Getting into systematic reviews can feel like a big step, but you don’t have to do it alone. Here you’ll find a handy Wiki to guide your methods, easy-to-use software like SyRF, live drop-ins and one-to-one support, plus a welcoming community to collaborate with. Everything you need to get started, and keep going, is right here."
   },
   {
-    "objectID": "synthesis/disseminate.html",
-    "href": "synthesis/disseminate.html",
-    "title": "Disseminate Primary Research",
-    "section": "",
-    "text": "Openly disseminating research in a transparent manner is crucial for advancing systematic reviews and evidence-based decision making. It enables the synthesis of diverse studies, providing a comprehensive analysis of existing evidence. This transparency promotes results reproducibility and ensures an accurate assessment of knowledge on a particular topic. Accessible and synthesisable research empowers decision-makers and contributes to the development of informed policies and practices. By openly sharing methodologies, data, and outcomes, researchers create a collaborative knowledge ecosystem that fosters trust and enhances the reliability and relevance of evidence in decision-making processes.\n\nOpen Data\n\nOpen Data Commons\nOpen Data Commons is a data sharing portal and repository for data in specific disease domains. The Open Data Commons portal:\n\nShare data with your colleagues in a protected space and publish data publicly with a DOI.\n\nSupports compliance with the FAIR data principles to ensure data is Findable, Accessible, Interoperable and Reusable.\n\nPromotes transparency and reproducibility for our common goal to find cures for serious medical conditions.\n\nAllows the community to meet increasing funder and journal data sharing requirements.\n\n\n\n\n\n\n\n\n\n ODC-SCI\n\n\n\nSpinal Cord Injury\nhttps://odc-sci.org/ \n\n\n\n\n\n\n\n\n\n\n ODC-TBI\n\n\n\nTraumatic Brain Injury\nhttps://odc-tbi.org/ \n\n\n\n\n\n\n\n\n\n\n ODC-Stroke\n\n\n\nComing Soon\n\n\n\n\n\n\n\n\nOpen Methods\n\nProtocols.io\n\n\n\n\n\nProtocols.io is a collaborative platform designed to facilitate the sharing of research protocols and methods. It serves as a centralised repository where researchers can publish, discover, and discuss experimental techniques across various scientific disciplines with ease and efficiency.\n\nCollaboration: Enables researchers to collaborate on protocols and share expertise.\nReproducibility: Enhances the reproducibility of experiments by offering detailed, version-controlled protocols.\nVisibility: Increases the visibility and impact of your research methods, as each protocol can be cited with a DOI.\nExperiment Tracking: Run protocols as checklists and record changes in your File Manager, which you can choose to keep private or share.\nQuality Control: Protocols are peer-reviewed, ensuring a high standard of scientific rigor.\n\nInterested in mastering Protocols.io? Check out the Tutorials  for quick, insightful guides on using the platform effectively."
-  },
-  {
-    "objectID": "synthesis-ready.html",
-    "href": "synthesis-ready.html",
-    "title": "What is Synthesis-Ready Research?",
-    "section": "",
-    "text": "Synthesis-ready primary animal research refers to in vivo studies that are designed, conducted and reported to facilitate seamless inclusion in systematic reviews and meta-analyses.\nKey features include clear articulation of objectives, standardised protocols with registration before the experiment begins, appropriate randomisation and blinding, robust sample size justification, and transparent presentation of all outcomes and underlying data.\nBy adhering to established reporting guidelines and open-science principles, synthesis-ready research enhances reproducibility, reduces bias and accelerates the translation of preclinical findings into evidence-based advances.\n\n\n\n\n\nImage by Meike Latz"
-  },
-  {
     "objectID": "resources.html#systematic-review-wiki",
     "href": "resources.html#systematic-review-wiki",
     "title": "Resources for Systematic Reviews",
@@ -201,5 +187,19 @@
     "title": "Resources for Systematic Reviews",
     "section": "Meet new collaborators at weekly calls",
     "text": "Meet new collaborators at weekly calls\nJoin weekly calls to share progress on your systematic review projects.\nWhen is the next CAMARADES call? →"
+  },
+  {
+    "objectID": "synthesis/disseminate.html",
+    "href": "synthesis/disseminate.html",
+    "title": "Disseminate Primary Research",
+    "section": "",
+    "text": "Openly disseminating research in a transparent manner is crucial for advancing systematic reviews and evidence-based decision making. It enables the synthesis of diverse studies, providing a comprehensive analysis of existing evidence. This transparency promotes results reproducibility and ensures an accurate assessment of knowledge on a particular topic. Accessible and synthesisable research empowers decision-makers and contributes to the development of informed policies and practices. By openly sharing methodologies, data, and outcomes, researchers create a collaborative knowledge ecosystem that fosters trust and enhances the reliability and relevance of evidence in decision-making processes.\n\nOpen Data\n\nOpen Data Commons\nOpen Data Commons is a data sharing portal and repository for data in specific disease domains. The Open Data Commons portal:\n\nShare data with your colleagues in a protected space and publish data publicly with a DOI.\n\nSupports compliance with the FAIR data principles to ensure data is Findable, Accessible, Interoperable and Reusable.\n\nPromotes transparency and reproducibility for our common goal to find cures for serious medical conditions.\n\nAllows the community to meet increasing funder and journal data sharing requirements.\n\n\n\n\n\n\n\n\n\n ODC-SCI\n\n\n\nSpinal Cord Injury\nhttps://odc-sci.org/ \n\n\n\n\n\n\n\n\n\n\n ODC-TBI\n\n\n\nTraumatic Brain Injury\nhttps://odc-tbi.org/ \n\n\n\n\n\n\n\n\n\n\n ODC-Stroke\n\n\n\nComing Soon\n\n\n\n\n\n\n\n\nOpen Methods\n\nProtocols.io\n\n\n\n\n\nProtocols.io is a collaborative platform designed to facilitate the sharing of research protocols and methods. It serves as a centralised repository where researchers can publish, discover, and discuss experimental techniques across various scientific disciplines with ease and efficiency.\n\nCollaboration: Enables researchers to collaborate on protocols and share expertise.\nReproducibility: Enhances the reproducibility of experiments by offering detailed, version-controlled protocols.\nVisibility: Increases the visibility and impact of your research methods, as each protocol can be cited with a DOI.\nExperiment Tracking: Run protocols as checklists and record changes in your File Manager, which you can choose to keep private or share.\nQuality Control: Protocols are peer-reviewed, ensuring a high standard of scientific rigor.\n\nInterested in mastering Protocols.io? Check out the Tutorials  for quick, insightful guides on using the platform effectively."
+  },
+  {
+    "objectID": "synthesis-ready.html",
+    "href": "synthesis-ready.html",
+    "title": "What is Synthesis-Ready Research?",
+    "section": "",
+    "text": "Synthesis-ready primary animal research refers to in vivo studies that are designed, conducted and reported to facilitate seamless inclusion in systematic reviews and meta-analyses.\nKey features include clear articulation of objectives, standardised protocols with registration before the experiment begins, appropriate randomisation and blinding, robust sample size justification, and transparent presentation of all outcomes and underlying data.\nBy adhering to established reporting guidelines and open-science principles, synthesis-ready research enhances reproducibility, reduces bias and accelerates the translation of preclinical findings into evidence-based advances.\n\n\n\n\n\nImage by Meike Latz"
   }
 ]
