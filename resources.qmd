@@ -52,7 +52,7 @@ Got a question? – Ask at the next [ drop-in session! {{< fa arrow-up-right-fro
 
 ::: g-col-9
 ### Drop-in Session
-Got a quick question? Join our weekly drop-in support session for expert guidance and assistance. Improve your skills and get unparalleled support. Mark your calendar and join us this week!
+Got a quick question? Join a weekly methods drop-in support session for expert guidance and assistance, hosted by CAMARADES Berlin. Improve your skills and get unparalleled support. Mark your calendar and join us this week!
 
 [When is the next drop-in? →](https://cores-hub.io/events/){target="_blank"}
 
@@ -72,7 +72,7 @@ Need some personalised guidance and support? Book a one-to-one support meeting. 
 
 Find collaborators and discuss your project on the Communities for Open Research Synthesis (COReS) community forum, Zulip. Make a free account and start chatting.
 
-[Find out more about the discussion forum →](https://cores-hub.io//about-cores/using-zulip/){target="_blank"}
+[Find out more about the discussion forum →](https://cores-hub.io/about-cores/using-zulip/){target="_blank"}
 
 ## Meet new collaborators at weekly calls
 
