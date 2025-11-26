@@ -56,6 +56,90 @@
     "text": "Internal validity of preclinical studies\nLearn about the importance of internal validity preclinical experiments with Dr Kim Wever (Radboud UMC, NL):"
   },
   {
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "CAMARADES",
+    "section": "",
+    "text": "# Contribute Workshops\nHelp keep the Education page fresh by adding your workshops here. Every .qmd in workshops/ is auto-listed on education.qmd, so new files appear on the site without extra wiring.\n## How to add a workshop\n\nCopy the starter below into workshops/your-workshop-name.qmd.\nUpdate the front matter:\n\ntitle: clear workshop name\ndate: ISO format YYYY-MM-DD (used for sorting)\ndelivery: e.g., Synchronous, Asynchronous, Hybrid\ncountry: city/country or Online\nOptional: categories or description if helpful\n\nWrite a short summary and include a registration/info button link.\nPlace any PDFs in files/ and images in images/; link with site-relative paths (e.g., /files/your-handout.pdf).\nPreview with quarto render education.qmd (or quarto render for the whole site) to confirm it lists correctly.\n\n### Starter template\n---\ntitle: \"Workshop Title\"\ndelivery: \"Synchronous\"\ncountry: \"Online\"\ndate: \"2025-05-01\"\n# categories: [\"Meta-analysis\", \"Training\"]   # optional tags\n# description: \"One-line summary for listings\" # optional\n---\nAdd a short intro paragraph, key bullets (language, location, credits, etc.), and a call-to-action button:\n::: button\n[ Info & Register](https://example.com){.btn .btn-secondary target=\"_blank\"}\n:::\nRun ‘quarto render’ and commit your changes to the main branch and it will show up on the Education page automatically."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education & Workshops",
+    "section": "",
+    "text": "A systematic review is a rigorous method for summarising all available studies on a research question:\n\nSupports evidence-based decisions by providing an unbiased assessment of all available data\nIdentifies effective interventions in translational biomedicine\nProvides a comprehensive, data-driven overview of the literature\n\nWant to learn more about systematic review? Check out our resources below!\n\n\n\n\n\n\nWorkshops\nBelow we list our workshops.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\ndelivery\n\n\n\n\n\n\n\n\nNov 10, 2025\n\n\nIntroduction to Systematic Review & Meta-Analysis of Animal Studies\n\n\nSynchronous\n\n\n\n\n\n\nNo matching items\n\n\n\neLearning\nWant to learn at your own pace? Our free eLearning modules let you master systematic reviews with interactive quizzes and exercises. Key topics covered in the series include:\n\n\n\nIntroduction to Systematic Review\nSystematic literature searching\nDefining a Research Question\nProtocol Development\n\n\n\n\nCitation Screening & Eligibility Criteria\nCritical Appraisal of Animal Studies\nData Extraction\nMeta-analysis of Data from Animal Studies\n\n\n\nStart your self-paced journey\n Go to eLearning platform\n\n\n\n\n\n\n Need Log-in Support?\n\n\n\nWe’ve prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform.  Click here to view the Moodle Log-in Guide"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About CAMARADES",
+    "section": "",
+    "text": "CAMARADES collaborates with researchers all around the world, including:\nOur shared goal is to improve the validity and value of preclinical models of human diseases to develop effective therapies."
+  },
+  {
+    "objectID": "about.html#brazil",
+    "href": "about.html#brazil",
+    "title": "About CAMARADES",
+    "section": "Brazil",
+    "text": "Brazil\nUniversidade Federal de Santa Catarina\nCAMARADES Brazil web site (Portuguese)"
+  },
+  {
+    "objectID": "about.html#canada",
+    "href": "about.html#canada",
+    "title": "About CAMARADES",
+    "section": "Canada",
+    "text": "Canada\nOttawa Hospital Research Institute, Canada\nOttawa Hospital Research Institute web site"
+  },
+  {
+    "objectID": "about.html#germany",
+    "href": "about.html#germany",
+    "title": "About CAMARADES",
+    "section": "Germany",
+    "text": "Germany\nBIH QUEST Center for Transforming Biomedical Research, Charité- Universitätsmedizin Berlin\nBIH QUEST Center CAMARADES web page"
+  },
+  {
+    "objectID": "about.html#the-netherlands",
+    "href": "about.html#the-netherlands",
+    "title": "About CAMARADES",
+    "section": "The Netherlands",
+    "text": "The Netherlands\nRadboud University Medical Center, Nijmegen\nMeta-research team web page"
+  },
+  {
+    "objectID": "about.html#turkey",
+    "href": "about.html#turkey",
+    "title": "About CAMARADES",
+    "section": "Turkey",
+    "text": "Turkey\nBaskent Univeristy\nLink to follow."
+  },
+  {
+    "objectID": "about.html#switzerland",
+    "href": "about.html#switzerland",
+    "title": "About CAMARADES",
+    "section": "Switzerland",
+    "text": "Switzerland\nCAMARADES Switzerland\nCAMARADES Switzerland web site"
+  },
+  {
+    "objectID": "about.html#united-kingdom",
+    "href": "about.html#united-kingdom",
+    "title": "About CAMARADES",
+    "section": "United Kingdom",
+    "text": "United Kingdom\nUniversity of Edinburgh, Scotland\nUniversity of Edinburgh team web site"
+  },
+  {
+    "objectID": "about.html#united-states",
+    "href": "about.html#united-states",
+    "title": "About CAMARADES",
+    "section": "United States",
+    "text": "United States\nUniversity of California San Francisco\nUniversity of California San Francisco web site"
+  },
+  {
+    "objectID": "about.html#want-to-join-the-international-network",
+    "href": "about.html#want-to-join-the-international-network",
+    "title": "About CAMARADES",
+    "section": "Want to join the international network?",
+    "text": "Want to join the international network?\nAre you interested in furthering the mission and vision of CAMARADES in your country?\nContact Us to find out more."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "CAMARADES International Network",
@@ -75,76 +159,6 @@
     "title": "CAMARADES International Network",
     "section": "Mission and strategies",
     "text": "Mission and strategies\n\nMissions\n\nImprove the validity of preclinical research\nIncrease the value of preclinical research\nImprove translation from preclinical research to the clinic\n\n\n\nStrategies\n\nConducting meta-research including systematic reviews and meta-analyses to investigate experimental validity across different preclinical research domains\nDeveloping guidance and providing methodological support for systematic review and meta-analysis of preclinical data\nDeveloping our own systematic review platform, specifically designed for preclinical systematic reviews\nDeveloping new automation tools to assist systematic reviews and meta-analyses\nPromoting the sharing of data and data analysis tools"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About CAMARADES",
-    "section": "",
-    "text": "CAMARADES collaborates with researchers all around the world, including:\nOur shared goal is to improve the validity and value of preclinical models of human diseases to develop effective therapies."
-  },
-  {
-    "objectID": "about.html#germany",
-    "href": "about.html#germany",
-    "title": "About CAMARADES",
-    "section": "Germany",
-    "text": "Germany\nBIH QUEST Center for Transforming Biomedical Research, Charité- Universitätsmedizin Berlin\nBIH QUEST Center CAMARADES web page"
-  },
-  {
-    "objectID": "about.html#brazil",
-    "href": "about.html#brazil",
-    "title": "About CAMARADES",
-    "section": "Brazil",
-    "text": "Brazil\nUniversidade Federal de Santa Catarina\nCAMARADES Brazil web site (Portuguese)"
-  },
-  {
-    "objectID": "about.html#the-netherlands",
-    "href": "about.html#the-netherlands",
-    "title": "About CAMARADES",
-    "section": "The Netherlands",
-    "text": "The Netherlands\nRadboud University Medical Center, Nijmegen\nMeta-research team web page"
-  },
-  {
-    "objectID": "about.html#switzerland",
-    "href": "about.html#switzerland",
-    "title": "About CAMARADES",
-    "section": "Switzerland",
-    "text": "Switzerland\nCAMARADES Switzerland\nCAMARADES Switzerland web site"
-  },
-  {
-    "objectID": "about.html#united-states",
-    "href": "about.html#united-states",
-    "title": "About CAMARADES",
-    "section": "United States",
-    "text": "United States\nUniversity of California San Francisco\nUniversity of California San Francisco web site"
-  },
-  {
-    "objectID": "about.html#canada",
-    "href": "about.html#canada",
-    "title": "About CAMARADES",
-    "section": "Canada",
-    "text": "Canada\nOttawa Hospital Research Institute, Canada\nOttawa Hospital Research Institute web site"
-  },
-  {
-    "objectID": "about.html#turkey",
-    "href": "about.html#turkey",
-    "title": "About CAMARADES",
-    "section": "Turkey",
-    "text": "Turkey\nBaskent Univeristy\nLink to follow."
-  },
-  {
-    "objectID": "about.html#want-to-join-the-international-network",
-    "href": "about.html#want-to-join-the-international-network",
-    "title": "About CAMARADES",
-    "section": "Want to join the international network?",
-    "text": "Want to join the international network?\nAre you interested in furthering the mission and vision of CAMARADES in your country?\nContact Us to find out more."
-  },
-  {
-    "objectID": "education.html",
-    "href": "education.html",
-    "title": "Education & Workshops",
-    "section": "",
-    "text": "A systematic review is a rigorous method for summarising all available studies on a research question:\n\nSupports evidence-based decisions by providing an unbiased assessment of all available data\nIdentifies effective interventions in translational biomedicine\nProvides a comprehensive, data-driven overview of the literature\n\nWant to learn more about systematic review? Check out our resources below!\n\n\n\n\n\n\nWorkshops\nBelow we list our workshops.\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\ndelivery\n\n\n\n\n\n\n\n\nNov 10, 2025\n\n\nIntroduction to Systematic Review & Meta-Analysis of Animal Studies\n\n\nSynchronous\n\n\n\n\n\n\nNo matching items\n\n\n\neLearning\nWant to learn at your own pace? Our free eLearning modules let you master systematic reviews with interactive quizzes and exercises. Key topics covered in the series include:\n\n\n\nIntroduction to Systematic Review\nSystematic literature searching\nDefining a Research Question\nProtocol Development\n\n\n\n\nCitation Screening & Eligibility Criteria\nCritical Appraisal of Animal Studies\nData Extraction\nMeta-analysis of Data from Animal Studies\n\n\n\nStart your self-paced journey\n Go to eLearning platform\n\n\n\n\n\n\n Need Log-in Support?\n\n\n\nWe’ve prepared a short guide to help you make a free user and register for the systematic review course on the CAMARADES eLearning platform.  Click here to view the Moodle Log-in Guide"
   },
   {
     "objectID": "resources.html",

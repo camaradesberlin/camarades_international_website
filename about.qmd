@@ -20,39 +20,11 @@ Our shared goal is to improve the validity and value of preclinical models of hu
 # National Coordinating Centres
 
 
-## Germany
-
-**BIH QUEST Center for Transforming Biomedical Research,  Charité- Universitätsmedizin Berlin**
-
-[BIH QUEST Center CAMARADES web page](https://www.bihealth.org/en/research/quest-center/service/camarades/){target="_blank"}
-
-
 ## Brazil 
 
 **Universidade Federal de Santa Catarina**
 
 [CAMARADES Brazil web site (Portuguese)](https://camaradesbrasil.bio.br/){target="_blank"}
-
-
-## The Netherlands
-
-**Radboud University Medical Center, Nijmegen**
-
-[Meta-research team web page](https://www.radboudumc.nl/en/research/departments/anesthesiology/meta-research-team){target="_blank"}
-
-
-## Switzerland
-
-**CAMARADES Switzerland**
-
-[CAMARADES Switzerland web site](https://camarades.ch/){target="_blank"}
-
-
-## United States
-
-**University of California San Francisco**
-
-[University of California San Francisco web site](https://www.ucsf.edu/){target="_blank"}
 
 
 ## Canada
@@ -62,11 +34,52 @@ Our shared goal is to improve the validity and value of preclinical models of hu
 [Ottawa Hospital Research Institute web site](http://www.ohri.ca/){target="_blank"}
 
 
+## Germany
+
+**BIH QUEST Center for Transforming Biomedical Research,  Charité- Universitätsmedizin Berlin**
+
+[BIH QUEST Center CAMARADES web page](https://www.bihealth.org/en/research/quest-center/service/camarades/){target="_blank"}
+
+
+## The Netherlands
+
+**Radboud University Medical Center, Nijmegen**
+
+[Meta-research team web page](https://www.radboudumc.nl/en/research/departments/anesthesiology/meta-research-team){target="_blank"}
+
+
 ## Turkey
 
 **Baskent Univeristy**
 
 Link to follow. 
+
+
+## Switzerland
+
+**CAMARADES Switzerland**
+
+[CAMARADES Switzerland web site](https://camarades.ch/){target="_blank"}
+
+
+## United Kingdom
+
+**University of Edinburgh, Scotland**
+
+[University of Edinburgh team web site](https://clinical-brain-sciences.ed.ac.uk/camarades){target="_blank"}
+
+
+## United States
+
+**University of California San Francisco**
+
+[University of California San Francisco web site](https://www.ucsf.edu/){target="_blank"}
+
+
+
+
+
+
 
 
 ## Want to join the international network? 
