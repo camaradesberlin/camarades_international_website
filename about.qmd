@@ -3,7 +3,7 @@ title: "About CAMARADES"
 format: html
 ---
 
-CAMARADES collaborates with researchers all around the world, including:
+CAMARADES collaborates with stakeholders all around the world, including:
 
 - meta-researchers
 - preclinical researchers
@@ -24,7 +24,7 @@ Our shared goal is to improve the validity and value of preclinical models of hu
 
 **Universidade Federal de Santa Catarina**
 
-[CAMARADES Brazil web site (Portuguese)](https://camaradesbrasil.bio.br/){target="_blank"}
+[CAMARADES Brazil web site](https://camaradesbrasil.bio.br/){target="_blank"}
 
 
 ## Canada
@@ -36,7 +36,7 @@ Our shared goal is to improve the validity and value of preclinical models of hu
 
 ## Germany
 
-**BIH QUEST Center for Transforming Biomedical Research,  Charité- Universitätsmedizin Berlin**
+**BIH QUEST Center for Responsible Research,  Charité- Universitätsmedizin Berlin**
 
 [BIH QUEST Center CAMARADES web page](https://www.bihealth.org/en/research/quest-center/service/camarades/){target="_blank"}
 
