@@ -1,0 +1,12 @@
+---
+title: "Switzerland"
+subtitle: "CAMARADES Switzerland"
+description: "CAMARADES Switzerland coordinates CAMARADES activities in Switzerland."
+image: /images/camarades_switzerland.png
+---
+
+[CAMARADES Switzerland web site](https://camarades.ch/){target="_blank"}
+
+::: {.centre-photo}
+![](/images/camarades_switzerland.png){fig-alt="CAMARADES Switzerland coordinating centre"}
+:::

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,16 +30,19 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-eb4520b7d8dd95290dd3ef5f9066d88f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4b8ecc1dccfb432317141e41aaf40cba.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,7 +70,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -78,6 +139,8 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">CAMARADES</span>
     </a>
@@ -163,14 +226,6 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#national-coordinating-centres" id="toc-national-coordinating-centres" class="nav-link active" data-scroll-target="#national-coordinating-centres">National Coordinating Centres</a>
   <ul class="collapse">
-  <li><a href="#brazil" id="toc-brazil" class="nav-link" data-scroll-target="#brazil">Brazil</a></li>
-  <li><a href="#canada" id="toc-canada" class="nav-link" data-scroll-target="#canada">Canada</a></li>
-  <li><a href="#germany" id="toc-germany" class="nav-link" data-scroll-target="#germany">Germany</a></li>
-  <li><a href="#the-netherlands" id="toc-the-netherlands" class="nav-link" data-scroll-target="#the-netherlands">The Netherlands</a></li>
-  <li><a href="#turkey" id="toc-turkey" class="nav-link" data-scroll-target="#turkey">Turkey</a></li>
-  <li><a href="#switzerland" id="toc-switzerland" class="nav-link" data-scroll-target="#switzerland">Switzerland</a></li>
-  <li><a href="#united-kingdom" id="toc-united-kingdom" class="nav-link" data-scroll-target="#united-kingdom">United Kingdom</a></li>
-  <li><a href="#united-states" id="toc-united-states" class="nav-link" data-scroll-target="#united-states">United States</a></li>
   <li><a href="#want-to-join-the-international-network" id="toc-want-to-join-the-international-network" class="nav-link" data-scroll-target="#want-to-join-the-international-network">Want to join the international network?</a></li>
   </ul></li>
   </ul>
@@ -211,56 +266,174 @@ ul.task-list li input[type="checkbox"] {
 <p>Our shared goal is to improve the validity and value of preclinical models of human diseases to develop effective therapies.</p>
 <section id="national-coordinating-centres" class="level1">
 <h1>National Coordinating Centres</h1>
-<section id="brazil" class="level2">
-<h2 class="anchored" data-anchor-id="brazil">Brazil</h2>
-<p><strong>Universidade Federal de Santa Catarina</strong></p>
-<p><a href="https://camaradesbrasil.bio.br/" target="_blank">CAMARADES Brazil web site</a></p>
-</section>
-<section id="canada" class="level2">
-<h2 class="anchored" data-anchor-id="canada">Canada</h2>
-<p><strong>Ottawa Hospital Research Institute, Canada</strong></p>
-<p><a href="http://www.ohri.ca/" target="_blank">Ottawa Hospital Research Institute web site</a></p>
-</section>
-<section id="germany" class="level2">
-<h2 class="anchored" data-anchor-id="germany">Germany</h2>
-<p><strong>BIH QUEST Center for Responsible Research, Charité- Universitätsmedizin Berlin</strong></p>
-<p><a href="https://www.bihealth.org/en/quest/service/service/camarades-facility-for-the-systematic-review-and-meta-analysis-1" target="_blank">BIH QUEST Center CAMARADES web page</a></p>
-</section>
-<section id="the-netherlands" class="level2">
-<h2 class="anchored" data-anchor-id="the-netherlands">The Netherlands</h2>
-<p><strong>Radboud University Medical Center, Nijmegen</strong></p>
-<p><a href="https://www.radboudumc.nl/en/research/departments/anesthesiology/meta-research-team" target="_blank">Meta-research team web page</a></p>
-</section>
-<section id="turkey" class="level2">
-<h2 class="anchored" data-anchor-id="turkey">Turkey</h2>
-<p><strong>Baskent Univeristy</strong></p>
-<p>Link to follow.</p>
-</section>
-<section id="switzerland" class="level2">
-<h2 class="anchored" data-anchor-id="switzerland">Switzerland</h2>
-<p><strong>CAMARADES Switzerland</strong></p>
-<p><a href="https://camarades.ch/" target="_blank">CAMARADES Switzerland web site</a></p>
-</section>
-<section id="united-kingdom" class="level2">
-<h2 class="anchored" data-anchor-id="united-kingdom">United Kingdom</h2>
-<p><strong>University of Edinburgh, Scotland</strong></p>
-<p><a href="https://clinical-brain-sciences.ed.ac.uk/camarades" target="_blank">University of Edinburgh team web site</a></p>
-</section>
-<section id="united-states" class="level2">
-<h2 class="anchored" data-anchor-id="united-states">United States</h2>
-<p><strong>University of California San Francisco</strong></p>
-<p><a href="https://www.ucsf.edu/" target="_blank">University of California San Francisco web site</a></p>
-</section>
+<p>Explore the CAMARADES National Coordinating Centres below.</p>
 <section id="want-to-join-the-international-network" class="level2">
 <h2 class="anchored" data-anchor-id="want-to-join-the-international-network">Want to join the international network?</h2>
 <p>Are you interested in furthering the mission and vision of CAMARADES in your country?</p>
 <p><a href="mailto:camarades.berlin@charite.de">Contact Us</a> to find out more.</p>
 
 
+
 </section>
 </section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1783444633611" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
+<a href="./centres/brazil.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/camarades_brazil.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Brazil
+</h5>
+<div class="card-subtitle listing-subtitle">
+Universidade Federal de Santa Catarina
+</div>
+<div class="card-text listing-description delink">
+<p>CAMARADES Brazil is based at Universidade Federal de Santa Catarina.</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1783444069421" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<a href="./centres/canada.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/camarades_canada.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Canada
+</h5>
+<div class="card-subtitle listing-subtitle">
+Ottawa Hospital Research Institute
+</div>
+<div class="card-text listing-description delink">
+<p>CAMARADES Canada is based at the Ottawa Hospital Research Institute.</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1783445057271" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<a href="./centres/germany.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/camarades_germany.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Germany
+</h5>
+<div class="card-subtitle listing-subtitle">
+BIH QUEST Center for Responsible Research, Charité - Universitätsmedizin Berlin
+</div>
+<div class="card-text listing-description delink">
+<p>CAMARADES Germany is based at the BIH QUEST Center for Responsible Research.</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1783444069752" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
+<a href="./centres/switzerland.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/camarades_switzerland.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Switzerland
+</h5>
+<div class="card-subtitle listing-subtitle">
+CAMARADES Switzerland
+</div>
+<div class="card-text listing-description delink">
+<p>CAMARADES Switzerland coordinates CAMARADES activities in Switzerland.</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1783444069640" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
+<a href="./centres/netherlands.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/camarades_netherlands.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The Netherlands
+</h5>
+<div class="card-subtitle listing-subtitle">
+Radboud University Medical Center, Nijmegen
+</div>
+<div class="card-text listing-description delink">
+<p>CAMARADES The Netherlands is based at Radboud University Medical Center, Nijmegen.</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1783445812518" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
+<a href="./centres/turkey.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/CAMARADES_logo.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Turkey
+</h5>
+<div class="card-subtitle listing-subtitle">
+Baskent University
+</div>
+<div class="card-text listing-description delink">
+<p>CAMARADES Turkey is based at Baskent University.</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1783445812627" data-listing-reading-time-sort="1" data-listing-word-count-sort="131">
+<a href="./centres/united-kingdom.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/CAMARADES_logo.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+United Kingdom
+</h5>
+<div class="card-subtitle listing-subtitle">
+University of Edinburgh, Scotland
+</div>
+<div class="card-text listing-description delink">
+<p>CAMARADES United Kingdom is based at the University of Edinburgh.</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1783445812743" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
+<a href="./centres/united-states.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/CAMARADES_logo.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+United States
+</h5>
+<div class="card-subtitle listing-subtitle">
+University of California San Francisco
+</div>
+<div class="card-text listing-description delink">
+<p>CAMARADES United States is based at the University of California San Francisco.</p>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -312,13 +485,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

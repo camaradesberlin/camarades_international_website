@@ -1,0 +1,40 @@
+---
+title: "Brazil"
+subtitle: "Universidade Federal de Santa Catarina"
+description: "CAMARADES Brazil is based at Universidade Federal de Santa Catarina."
+image: /images/camarades_brazil.png
+---
+
+[CAMARADES Brazil web site](https://camaradesbrasil.bio.br/){target="_blank"}
+
+::: {.centre-photo}
+![](/images/camarades_brazil.png){fig-alt="CAMARADES Brazil coordinating centre"}
+:::
+
+## Contact
+
+Department of Pharmacology, Department of Physiological Sciences, Center of Biological Sciences, Universidade Federal de Santa Catarina (UFSC)  
+Rua Pio Duarte Silva, 241 - Corrego Grande, Florianopolis, Brazil  
+[camaradesbr@gmail.com](mailto:camaradesbr@gmail.com)
+
+## Education
+
+- Introdução à Revisão Sistemática e Meta-análise em Farmacologia Básica (FMC510046)
+- Introductory workshops, offered annually
+- Work crowd group, held periodically
+
+## Ongoing projects
+
+- SysPhar
+- FSTLibrary
+
+## Disease areas of interest
+
+- Neuropsychiatric disorders
+
+## People and ORCID profiles
+
+- Cilene Lino-de-Oliveira: [{{< fa brands orcid label="ORCID" >}} 0000-0002-0627-530X](https://orcid.org/0000-0002-0627-530X){target="_blank"}
+- Juliana Aparecida Bolzan: [{{< fa brands orcid label="ORCID" >}} 0000-0002-8537-943X](https://orcid.org/0000-0002-8537-943X){target="_blank"}
+- Tamires Martins: [{{< fa brands orcid label="ORCID" >}} 0000-0002-3793-2122](https://orcid.org/0000-0002-3793-2122){target="_blank"}
+

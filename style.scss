@@ -89,4 +89,22 @@ a {
 .navbar-logo {
   max-height: 50px;
 }
+
+.centre-page #title-block-header .description {
+  display: none;
+}
+
+.centre-photo {
+  margin: 1rem 0 1.5rem;
+}
+
+.centre-photo img {
+  display: block;
+  height: auto;
+  max-width: min(100%, 500px);
+}
+
+.quarto-grid-item .thumbnail-image {
+  object-fit: cover;
+}
 /*-- scss:defaults --*/

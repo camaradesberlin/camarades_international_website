@@ -1,0 +1,43 @@
+---
+title: "Germany"
+subtitle: "BIH QUEST Center for Responsible Research, Charité - Universitätsmedizin Berlin"
+description: "CAMARADES Germany is based at the BIH QUEST Center for Responsible Research."
+image: /images/camarades_germany.png
+---
+
+[BIH QUEST Center CAMARADES web page](https://www.bihealth.org/en/quest/service/service/camarades-facility-for-the-systematic-review-and-meta-analysis-1){target="_blank"}
+
+::: {.centre-photo}
+![](/images/camarades_germany.png){fig-alt="CAMARADES Germany coordinating centre"}
+:::
+
+## Contact
+
+QUEST Center for Responsible Research, [Berlin Institute of Health at Charite Universitaetsmedizin](http://bih-charite.de/){target="_blank"}  
+Anna-Louisa-Karsch-Str. 2  
+10178 Berlin, Germany  
+camarades.berlin[at]bih-charite.de
+
+## Education
+
+- Online introductory workshop
+- eLearning courses
+
+## Ongoing projects
+
+- [SexDifferences](https://www.bihealth.org/en/translation/innovation-enabler/quest-center/projects/project/geschlechtsunterschiede-in-praeklinischen-modellen-des-ischaemischen-schlaganfalls){target="_blank"}
+- StokeComorb
+- [iRISE](https://irise-project.eu/){target="_blank"} 
+- ATTAC
+- INFORM-Stroke
+
+## Disease areas of interest
+
+- Stroke
+
+## People and ORCID profiles
+
+- Dr Sarah McCann: [{{< fa brands orcid label="ORCID" >}} 0000-0003-4737-2349](https://orcid.org/0000-0003-4737-2349){target="_blank"}
+- María Arroyo-Araujo: [{{< fa brands orcid label="ORCID" >}} 0000-0001-6612-0679](https://orcid.org/0000-0001-6612-0679){target="_blank"}
+- Maria Economou: [{{< fa brands orcid label="ORCID" >}} 0000-0001-8199-0234](https://orcid.org/0000-0001-8199-0234){target="_blank"}
+- Sofija Vojvodic: [{{< fa brands orcid label="ORCID" >}} 0000-0001-5192-8982](https://orcid.org/0000-0001-5192-8982){target="_blank"}

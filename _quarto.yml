@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "centres/*.qmd"
+    - "synthesis/*.qmd"
+    - "workshops/*.qmd"
 
 website:
   title: "CAMARADES"
