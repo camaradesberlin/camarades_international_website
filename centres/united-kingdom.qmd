@@ -1,0 +1,46 @@
+---
+title: "United Kingdom"
+subtitle: "University of Edinburgh, Scotland"
+description: "CAMARADES United Kingdom is based at the University of Edinburgh."
+---
+
+[University of Edinburgh team web site](https://clinical-brain-sciences.ed.ac.uk/camarades){target="_blank"}
+
+## Contact
+
+University of Edinburgh  
+49 Little France Crescent  
+Edinburgh, EH16 4SB  
+[helpdesk@syrf.org.uk](mailto:helpdesk@syrf.org.uk)
+
+## Education
+
+- EUROC, CAMARADES Moodle
+- [SOLES](https://camaradesuk.github.io/soles-projects/){target="_blank"}
+
+## Ongoing projects
+
+- iRISE
+- DRIVES
+
+## Disease areas of interest
+
+- Psychosis
+- Depression
+- Stress
+- LACI
+- Stroke
+- Alzheimer's disease
+- MND
+
+## People and ORCID profiles
+
+- [{{< fa brands orcid label="ORCID" >}} 0000-0002-3282-8502](https://orcid.org/0000-0002-3282-8502){target="_blank"}
+- [{{< fa brands orcid label="ORCID" >}} 0000-0001-9187-9839](https://orcid.org/0000-0001-9187-9839){target="_blank"}
+- [{{< fa brands orcid label="ORCID" >}} 0000-0003-3052-2929](https://orcid.org/0000-0003-3052-2929){target="_blank"}
+- [{{< fa brands orcid label="ORCID" >}} 0000-0002-8488-037X](https://orcid.org/0000-0002-8488-037X){target="_blank"}
+- [{{< fa brands orcid label="ORCID" >}} 0009-0008-9248-2954](https://orcid.org/0009-0008-9248-2954){target="_blank"}
+- [{{< fa brands orcid label="ORCID" >}} 0009-0000-1870-2885](https://orcid.org/0009-0000-1870-2885){target="_blank"}
+- [{{< fa brands orcid label="ORCID" >}} 0009-0008-1231-9875](https://orcid.org/0009-0008-1231-9875){target="_blank"}
+- [{{< fa brands orcid label="ORCID" >}} 0009-0004-2086-3302](https://orcid.org/0009-0004-2086-3302){target="_blank"}
+- [{{< fa brands orcid label="ORCID" >}} 0009-0004-1966-9932](https://orcid.org/0009-0004-1966-9932){target="_blank"}

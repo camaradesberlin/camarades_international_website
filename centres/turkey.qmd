@@ -1,0 +1,12 @@
+---
+title: "Turkey"
+subtitle: "Baskent University"
+description: "CAMARADES Turkey is based at Baskent University."
+---
+
+[CAMARADES Turkey web site](https://camarades.baskent.edu.tr/kw/?dil=EN){target="_blank"}
+
+## Contact
+
+Baskent University Faculty of Medicine  
+Ankara, Turkey

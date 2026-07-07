@@ -1,6 +1,13 @@
 ---
 title: "About CAMARADES"
 format: html
+listing:
+  contents: centres
+  type: grid
+  fields: [title, subtitle, description]
+  sort: "title"
+  categories: false
+  page-size: 20
 ---
 
 CAMARADES collaborates with stakeholders all around the world, including:
@@ -19,67 +26,7 @@ Our shared goal is to improve the validity and value of preclinical models of hu
 
 # National Coordinating Centres
 
-
-## Brazil 
-
-**Universidade Federal de Santa Catarina**
-
-[CAMARADES Brazil web site](https://camaradesbrasil.bio.br/){target="_blank"}
-
-
-## Canada
-
-**Ottawa Hospital Research Institute, Canada**
-
-[Ottawa Hospital Research Institute web site](http://www.ohri.ca/){target="_blank"}
-
-
-## Germany
-
-**BIH QUEST Center for Responsible Research,  Charité- Universitätsmedizin Berlin**
-
-[BIH QUEST Center CAMARADES web page](https://www.bihealth.org/en/quest/service/service/camarades-facility-for-the-systematic-review-and-meta-analysis-1){target="_blank"}
-
-
-## The Netherlands
-
-**Radboud University Medical Center, Nijmegen**
-
-[Meta-research team web page](https://www.radboudumc.nl/en/research/departments/anesthesiology/meta-research-team){target="_blank"}
-
-
-## Turkey
-
-**Baskent Univeristy**
-
-Link to follow. 
-
-
-## Switzerland
-
-**CAMARADES Switzerland**
-
-[CAMARADES Switzerland web site](https://camarades.ch/){target="_blank"}
-
-
-## United Kingdom
-
-**University of Edinburgh, Scotland**
-
-[University of Edinburgh team web site](https://clinical-brain-sciences.ed.ac.uk/camarades){target="_blank"}
-
-
-## United States
-
-**University of California San Francisco**
-
-[University of California San Francisco web site](https://www.ucsf.edu/){target="_blank"}
-
-
-
-
-
-
+Explore the CAMARADES National Coordinating Centres below.
 
 
 ## Want to join the international network? 
@@ -87,4 +34,3 @@ Link to follow.
 Are you interested in furthering the mission and vision of CAMARADES in your country? 
 
 [Contact Us](mailto:camarades.berlin@charite.de) to find out more. 
-

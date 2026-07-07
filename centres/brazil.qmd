@@ -1,0 +1,38 @@
+---
+title: "Brazil"
+subtitle: "Universidade Federal de Santa Catarina"
+description: "CAMARADES Brazil is based at Universidade Federal de Santa Catarina."
+---
+
+[CAMARADES Brazil web site](https://camaradesbrasil.bio.br/){target="_blank"}
+
+## Contact
+
+Department of Pharmacology, Department of Physiological Sciences, Center of Biological Sciences, Universidade Federal de Santa Catarina (UFSC)  
+Rua Pio Duarte Silva, 241 - Corrego Grande, Florianopolis, Brazil  
+[camaradesbr@gmail.com](mailto:camaradesbr@gmail.com)
+
+## Education
+
+- Introdução à Revisão Sistemática e Meta-análise em Farmacologia Básica (FMC510046)
+- Introductory workshops, offered annually
+- Work crowd group, held periodically
+
+## Ongoing projects
+
+- SysPhar
+- FSTLibrary
+
+## Disease areas of interest
+
+- Neuropsychiatric disorders
+
+## People and ORCID profiles
+
+- [{{< fa brands orcid label="ORCID" >}} 0000-0002-0627-530X](https://orcid.org/0000-0002-0627-530X){target="_blank"} - CLO
+- [{{< fa brands orcid label="ORCID" >}} 0000-0002-8537-943X](https://orcid.org/0000-0002-8537-943X){target="_blank"} - JAB
+- [{{< fa brands orcid label="ORCID" >}} 0000-0002-3793-2122](https://orcid.org/0000-0002-3793-2122){target="_blank"} - TM
+
+## Photo
+
+[Shared centre photo](https://drive.google.com/file/d/1Ife6c1DjF0R6AMsA40Zfo3c01JIR_nGs/view?usp=drive_link){target="_blank"}

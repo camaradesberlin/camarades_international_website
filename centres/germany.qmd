@@ -1,0 +1,37 @@
+---
+title: "Germany"
+subtitle: "BIH QUEST Center for Responsible Research, Charité - Universitätsmedizin Berlin"
+description: "CAMARADES Germany is based at the BIH QUEST Center for Responsible Research."
+---
+
+[BIH QUEST Center CAMARADES web page](https://www.bihealth.org/en/quest/service/service/camarades-facility-for-the-systematic-review-and-meta-analysis-1){target="_blank"}
+
+## Contact
+
+QUEST Center for Responsible Research, Berlin Institute of Health at Charite Universitaetsmedizin  
+Anna-Louisa-Karsch-Str. 2  
+10178 Berlin, Germany  
+camarades.berlin[at]bih-charite.de
+
+## Education
+
+- Online introductory workshop
+- eLearning courses
+
+## Ongoing projects
+
+- SexDifferences
+- StokeComorb
+- iRISE
+- ATTAC
+- INFORM-Stroke
+
+## Disease areas of interest
+
+- Stroke
+
+## People and ORCID profiles
+
+- [{{< fa brands orcid label="ORCID" >}} 0000-0001-6612-0679](https://orcid.org/0000-0001-6612-0679){target="_blank"} - MAA
+- [{{< fa brands orcid label="ORCID" >}} 0000-0001-8199-0234](https://orcid.org/0000-0001-8199-0234){target="_blank"} - ME
+- [{{< fa brands orcid label="ORCID" >}} 0000-0001-5192-8982](https://orcid.org/0000-0001-5192-8982){target="_blank"} - SV

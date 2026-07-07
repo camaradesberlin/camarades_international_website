@@ -1,5 +1,18 @@
 [
   {
+    "listing": "/about.html",
+    "items": [
+      "/centres/brazil.html",
+      "/centres/canada.html",
+      "/centres/germany.html",
+      "/centres/switzerland.html",
+      "/centres/netherlands.html",
+      "/centres/turkey.html",
+      "/centres/united-kingdom.html",
+      "/centres/united-states.html"
+    ]
+  },
+  {
     "listing": "/education.html",
     "items": [
       "/workshops/intro-to-sr-berlin.html"

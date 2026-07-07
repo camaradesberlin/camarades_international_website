@@ -1,0 +1,31 @@
+---
+title: "Canada"
+subtitle: "Ottawa Hospital Research Institute"
+description: "CAMARADES Canada is based at the Ottawa Hospital Research Institute."
+---
+
+[Ottawa Hospital Research Institute web site](http://www.ohri.ca/){target="_blank"}
+
+## Contact
+
+Ottawa Hospital Research Institute  
+501 Smyth Road  
+Ottawa, Ontario, Canada, K1H 8L6  
+[mlalu@toh.ca](mailto:mlalu@toh.ca)
+
+## Ongoing projects
+
+- Preclinical systematic reviews of sepsis and acute lung injury
+- Reporting
+- Clinical systematic reviews of early phase clinical trials
+
+## Disease areas of interest
+
+- Sepsis
+- Acute lung injury
+- Stroke
+- Transfusion
+
+## People and ORCID profiles
+
+- [{{< fa brands orcid label="ORCID" >}} 0000-0002-0322-382X](https://orcid.org/0000-0002-0322-382X){target="_blank"}

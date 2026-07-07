@@ -1,0 +1,7 @@
+---
+title: "The Netherlands"
+subtitle: "Radboud University Medical Center, Nijmegen"
+description: "CAMARADES The Netherlands is based at Radboud University Medical Center, Nijmegen."
+---
+
+[Meta-research team web page](https://www.radboudumc.nl/en/research/departments/anesthesiology/meta-research-team){target="_blank"}
