@@ -22,7 +22,7 @@ camarades.berlin[at]bih-charite.de
 
 - SexDifferences
 - StokeComorb
-- iRISE
+- [iRISE](https://irise-project.eu/){target="_blank"} 
 - ATTAC
 - INFORM-Stroke
 
@@ -32,6 +32,6 @@ camarades.berlin[at]bih-charite.de
 
 ## People and ORCID profiles
 
-- [{{< fa brands orcid label="ORCID" >}} 0000-0001-6612-0679](https://orcid.org/0000-0001-6612-0679){target="_blank"} - MAA
-- [{{< fa brands orcid label="ORCID" >}} 0000-0001-8199-0234](https://orcid.org/0000-0001-8199-0234){target="_blank"} - ME
-- [{{< fa brands orcid label="ORCID" >}} 0000-0001-5192-8982](https://orcid.org/0000-0001-5192-8982){target="_blank"} - SV
+- María Arroyo-Araujo: [{{< fa brands orcid label="ORCID" >}} 0000-0001-6612-0679](https://orcid.org/0000-0001-6612-0679){target="_blank"}
+- Maria Economou: [{{< fa brands orcid label="ORCID" >}} 0000-0001-8199-0234](https://orcid.org/0000-0001-8199-0234){target="_blank"}
+- Sofija Vojvodic: [{{< fa brands orcid label="ORCID" >}} 0000-0001-5192-8982](https://orcid.org/0000-0001-5192-8982){target="_blank"}

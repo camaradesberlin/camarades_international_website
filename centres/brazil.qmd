@@ -29,9 +29,9 @@ Rua Pio Duarte Silva, 241 - Corrego Grande, Florianopolis, Brazil
 
 ## People and ORCID profiles
 
-- [{{< fa brands orcid label="ORCID" >}} 0000-0002-0627-530X](https://orcid.org/0000-0002-0627-530X){target="_blank"} - CLO
-- [{{< fa brands orcid label="ORCID" >}} 0000-0002-8537-943X](https://orcid.org/0000-0002-8537-943X){target="_blank"} - JAB
-- [{{< fa brands orcid label="ORCID" >}} 0000-0002-3793-2122](https://orcid.org/0000-0002-3793-2122){target="_blank"} - TM
+- Cilene Lino-de-Oliveira: [{{< fa brands orcid label="ORCID" >}} 0000-0002-0627-530X](https://orcid.org/0000-0002-0627-530X){target="_blank"}
+- Juliana Aparecida Bolzan: [{{< fa brands orcid label="ORCID" >}} 0000-0002-8537-943X](https://orcid.org/0000-0002-8537-943X){target="_blank"}
+- Tamires Martins: [{{< fa brands orcid label="ORCID" >}} 0000-0002-3793-2122](https://orcid.org/0000-0002-3793-2122){target="_blank"}
 
 ## Photo
 

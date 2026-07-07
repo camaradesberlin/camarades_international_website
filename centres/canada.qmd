@@ -28,4 +28,4 @@ Ottawa, Ontario, Canada, K1H 8L6
 
 ## People and ORCID profiles
 
-- [{{< fa brands orcid label="ORCID" >}} 0000-0002-0322-382X](https://orcid.org/0000-0002-0322-382X){target="_blank"}
+- Manoj M Lalu: [{{< fa brands orcid label="ORCID" >}} 0000-0002-0322-382X](https://orcid.org/0000-0002-0322-382X){target="_blank"}

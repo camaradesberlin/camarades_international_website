@@ -13,14 +13,14 @@ University of Edinburgh
 Edinburgh, EH16 4SB  
 [helpdesk@syrf.org.uk](mailto:helpdesk@syrf.org.uk)
 
-## Education
+## Educational Offerings
 
 - EUROC, CAMARADES Moodle
 - [SOLES](https://camaradesuk.github.io/soles-projects/){target="_blank"}
 
 ## Ongoing projects
 
-- iRISE
+- [iRISE](https://irise-project.eu/){target="_blank"} 
 - DRIVES
 
 ## Disease areas of interest
@@ -35,12 +35,12 @@ Edinburgh, EH16 4SB
 
 ## People and ORCID profiles
 
-- [{{< fa brands orcid label="ORCID" >}} 0000-0002-3282-8502](https://orcid.org/0000-0002-3282-8502){target="_blank"}
-- [{{< fa brands orcid label="ORCID" >}} 0000-0001-9187-9839](https://orcid.org/0000-0001-9187-9839){target="_blank"}
-- [{{< fa brands orcid label="ORCID" >}} 0000-0003-3052-2929](https://orcid.org/0000-0003-3052-2929){target="_blank"}
-- [{{< fa brands orcid label="ORCID" >}} 0000-0002-8488-037X](https://orcid.org/0000-0002-8488-037X){target="_blank"}
-- [{{< fa brands orcid label="ORCID" >}} 0009-0008-9248-2954](https://orcid.org/0009-0008-9248-2954){target="_blank"}
-- [{{< fa brands orcid label="ORCID" >}} 0009-0000-1870-2885](https://orcid.org/0009-0000-1870-2885){target="_blank"}
-- [{{< fa brands orcid label="ORCID" >}} 0009-0008-1231-9875](https://orcid.org/0009-0008-1231-9875){target="_blank"}
-- [{{< fa brands orcid label="ORCID" >}} 0009-0004-2086-3302](https://orcid.org/0009-0004-2086-3302){target="_blank"}
-- [{{< fa brands orcid label="ORCID" >}} 0009-0004-1966-9932](https://orcid.org/0009-0004-1966-9932){target="_blank"}
+- Emily S Sena: [{{< fa brands orcid label="ORCID" >}} 0000-0002-3282-8502](https://orcid.org/0000-0002-3282-8502){target="_blank"}
+- Malcolm Robert Macleod: [{{< fa brands orcid label="ORCID" >}} 0000-0001-9187-9839](https://orcid.org/0000-0001-9187-9839){target="_blank"}
+- Gillian L Currie: [{{< fa brands orcid label="ORCID" >}} 0000-0003-3052-2929](https://orcid.org/0000-0003-3052-2929){target="_blank"}
+- Charis Wong: [{{< fa brands orcid label="ORCID" >}} 0000-0002-8488-037X](https://orcid.org/0000-0002-8488-037X){target="_blank"}
+- Francesca Tinsdeall: [{{< fa brands orcid label="ORCID" >}} 0009-0008-9248-2954](https://orcid.org/0009-0008-9248-2954){target="_blank"}
+- Gözde Caan: [{{< fa brands orcid label="ORCID" >}} 0009-0000-1870-2885](https://orcid.org/0009-0000-1870-2885){target="_blank"}
+- Clara Sanchez-Izquierdo Lozano: [{{< fa brands orcid label="ORCID" >}} 0009-0008-1231-9875](https://orcid.org/0009-0008-1231-9875){target="_blank"}
+- Sean Smith: [{{< fa brands orcid label="ORCID" >}} 0009-0004-2086-3302](https://orcid.org/0009-0004-2086-3302){target="_blank"}
+- Daria Gramenitskaya: [{{< fa brands orcid label="ORCID" >}} 0009-0004-1966-9932](https://orcid.org/0009-0004-1966-9932){target="_blank"}
