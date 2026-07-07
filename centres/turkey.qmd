@@ -2,6 +2,7 @@
 title: "Turkey"
 subtitle: "Baskent University"
 description: "CAMARADES Turkey is based at Baskent University."
+image: /images/CAMARADES_logo.jpg
 ---
 
 [CAMARADES Turkey web site](https://camarades.baskent.edu.tr/kw/?dil=EN){target="_blank"}

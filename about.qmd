@@ -4,7 +4,7 @@ format: html
 listing:
   contents: centres
   type: grid
-  fields: [title, subtitle, description]
+  fields: [image, title, subtitle, description]
   sort: "title"
   categories: false
   page-size: 20

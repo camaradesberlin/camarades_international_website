@@ -2,9 +2,14 @@
 title: "Brazil"
 subtitle: "Universidade Federal de Santa Catarina"
 description: "CAMARADES Brazil is based at Universidade Federal de Santa Catarina."
+image: /images/camarades_brazil.png
 ---
 
 [CAMARADES Brazil web site](https://camaradesbrasil.bio.br/){target="_blank"}
+
+::: {.centre-photo}
+![](/images/camarades_brazil.png){fig-alt="CAMARADES Brazil coordinating centre"}
+:::
 
 ## Contact
 
@@ -33,6 +38,3 @@ Rua Pio Duarte Silva, 241 - Corrego Grande, Florianopolis, Brazil
 - Juliana Aparecida Bolzan: [{{< fa brands orcid label="ORCID" >}} 0000-0002-8537-943X](https://orcid.org/0000-0002-8537-943X){target="_blank"}
 - Tamires Martins: [{{< fa brands orcid label="ORCID" >}} 0000-0002-3793-2122](https://orcid.org/0000-0002-3793-2122){target="_blank"}
 
-## Photo
-
-[Shared centre photo](https://drive.google.com/file/d/1Ife6c1DjF0R6AMsA40Zfo3c01JIR_nGs/view?usp=drive_link){target="_blank"}

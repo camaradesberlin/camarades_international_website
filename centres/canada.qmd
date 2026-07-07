@@ -2,9 +2,14 @@
 title: "Canada"
 subtitle: "Ottawa Hospital Research Institute"
 description: "CAMARADES Canada is based at the Ottawa Hospital Research Institute."
+image: /images/camarades_canada.jpg
 ---
 
 [Ottawa Hospital Research Institute web site](http://www.ohri.ca/){target="_blank"}
+
+::: {.centre-photo}
+![](/images/camarades_canada.jpg){fig-alt="CAMARADES Canada coordinating centre"}
+:::
 
 ## Contact
 

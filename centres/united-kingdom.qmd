@@ -2,6 +2,7 @@
 title: "United Kingdom"
 subtitle: "University of Edinburgh, Scotland"
 description: "CAMARADES United Kingdom is based at the University of Edinburgh."
+image: /images/CAMARADES_logo.jpg
 ---
 
 [University of Edinburgh team web site](https://clinical-brain-sciences.ed.ac.uk/camarades){target="_blank"}
