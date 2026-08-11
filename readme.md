@@ -91,14 +91,40 @@ image: /images/CAMARADES_logo.jpg
 ---
 ```
 
-3. Add centre details using the existing profile structure:
+3. Add centre details using the existing profile structure. Put the centre logo first, then contact details, then the people section before education, projects, or disease areas:
 
 ```markdown
+::: {.centre-photo}
+![](/images/CAMARADES_logo.jpg){fig-alt="CAMARADES France coordinating centre"}
+:::
+
 ## Contact
 
 Institution  
 Address  
 [email@example.org](mailto:email@example.org)
+
+## People
+
+::: {.coordinator-card}
+[![](/images/france-firstname.jpg){fig-alt="Coordinator Name"}](https://orcid.org/0000-0000-0000-0000){target="_blank"}
+
+::: {.coordinator-card-body}
+### [Coordinator Name](https://orcid.org/0000-0000-0000-0000){target="_blank"}
+
+::: {.coordinator-role}
+Centre coordinator
+:::
+
+::: {.person-orcid}
+[{{< fa brands orcid label="ORCID" >}} 0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000){target="_blank"}
+:::
+:::
+:::
+
+::: {.people-links}
+- Other Person: [{{< fa brands orcid label="ORCID" >}} 0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000){target="_blank"}
+:::
 
 ## Educational Offerings
 
@@ -111,10 +137,6 @@ Address
 ## Disease areas of interest
 
 - Which disease areas of interest you are working on
-
-## People and ORCID profiles
-
-- Person Name: [{{< fa brands orcid label="ORCID" >}} 0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000){target="_blank"}
 ```
 
 Use a centre-specific image if available. Otherwise use the standard CAMARADES logo:
@@ -122,5 +144,7 @@ Use a centre-specific image if available. Otherwise use the standard CAMARADES l
 ```yaml
 image: /images/CAMARADES_logo.jpg
 ```
+
+Use a centre coordinator photo when available. Save it in `images/` using the pattern `country-firstname.jpg`, for example `germany-sarah.jpg`. The coordinator card should link directly to the coordinator's ORCID profile, not to a separate person page. Other people already associated with the centre can be listed below the coordinator card as ORCID links without photos.
 
 Run `quarto render` and check both the centre page and the About CAMARADES listing.
