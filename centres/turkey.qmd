@@ -7,7 +7,30 @@ image: /images/CAMARADES_logo.jpg
 
 [CAMARADES Turkey web site](https://camarades.baskent.edu.tr/kw/?dil=EN){target="_blank"}
 
+::: {.centre-photo}
+![](/images/CAMARADES_logo.jpg){fig-alt="CAMARADES Turkey coordinating centre"}
+:::
+
 ## Contact
 
 Baskent University Faculty of Medicine  
-Ankara, Turkey
+Ankara, Turkey  
+[seaydingoz@baskent.edu.tr](mailto:seaydingoz@baskent.edu.tr)
+
+## People
+
+::: {.coordinator-card}
+[![](/images/turkey-selda.jpg){fig-alt="Selda Emre Aydingoz"}](https://orcid.org/0000-0001-7823-7620){target="_blank"}
+
+::: {.coordinator-card-body}
+### [Selda Emre Aydingoz](https://orcid.org/0000-0001-7823-7620){target="_blank"}
+
+::: {.coordinator-role}
+Centre coordinator
+:::
+
+::: {.person-orcid}
+[{{< fa brands orcid label="ORCID" >}} 0000-0001-7823-7620](https://orcid.org/0000-0001-7823-7620){target="_blank"}
+:::
+:::
+:::

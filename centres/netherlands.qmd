@@ -10,3 +10,26 @@ image: /images/camarades_netherlands.png
 ::: {.centre-photo}
 ![](/images/camarades_netherlands.png){fig-alt="CAMARADES The Netherlands coordinating centre"}
 :::
+
+## Contact
+
+Kim Wever & Carlijn Hooijmans  
+[Meta-research team contact page](https://www.radboudumc.nl/en/research/departments/anesthesiology/meta-research-team/camarades-netherlands){target="_blank"}
+
+## People
+
+::: {.coordinator-card}
+[![](/images/netherlands-kim.jpg){fig-alt="Dr Kim Wever"}](https://orcid.org/0000-0003-3635-3660){target="_blank"}
+
+::: {.coordinator-card-body}
+### [Dr Kim Wever](https://orcid.org/0000-0003-3635-3660){target="_blank"}
+
+::: {.coordinator-role}
+Centre coordinator
+:::
+
+::: {.person-orcid}
+[{{< fa brands orcid label="ORCID" >}} 0000-0003-3635-3660](https://orcid.org/0000-0003-3635-3660){target="_blank"}
+:::
+:::
+:::

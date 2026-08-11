@@ -17,6 +17,29 @@ Department of Pharmacology, Department of Physiological Sciences, Center of Biol
 Rua Pio Duarte Silva, 241 - Corrego Grande, Florianopolis, Brazil  
 [camaradesbr@gmail.com](mailto:camaradesbr@gmail.com)
 
+## People
+
+::: {.coordinator-card}
+[![](/images/brazil-cilene.jpg){fig-alt="Cilene Lino-de-Oliveira"}](https://orcid.org/0000-0002-0627-530X){target="_blank"}
+
+::: {.coordinator-card-body}
+### [Cilene Lino-de-Oliveira](https://orcid.org/0000-0002-0627-530X){target="_blank"}
+
+::: {.coordinator-role}
+Centre coordinator
+:::
+
+::: {.person-orcid}
+[{{< fa brands orcid label="ORCID" >}} 0000-0002-0627-530X](https://orcid.org/0000-0002-0627-530X){target="_blank"}
+:::
+:::
+:::
+
+::: {.people-links}
+- Juliana Aparecida Bolzan: [{{< fa brands orcid label="ORCID" >}} 0000-0002-8537-943X](https://orcid.org/0000-0002-8537-943X){target="_blank"}
+- Tamires Martins: [{{< fa brands orcid label="ORCID" >}} 0000-0002-3793-2122](https://orcid.org/0000-0002-3793-2122){target="_blank"}
+:::
+
 ## Education
 
 - Introdução à Revisão Sistemática e Meta-análise em Farmacologia Básica (FMC510046)
@@ -31,10 +54,3 @@ Rua Pio Duarte Silva, 241 - Corrego Grande, Florianopolis, Brazil
 ## Disease areas of interest
 
 - Neuropsychiatric disorders
-
-## People and ORCID profiles
-
-- Cilene Lino-de-Oliveira: [{{< fa brands orcid label="ORCID" >}} 0000-0002-0627-530X](https://orcid.org/0000-0002-0627-530X){target="_blank"}
-- Juliana Aparecida Bolzan: [{{< fa brands orcid label="ORCID" >}} 0000-0002-8537-943X](https://orcid.org/0000-0002-8537-943X){target="_blank"}
-- Tamires Martins: [{{< fa brands orcid label="ORCID" >}} 0000-0002-3793-2122](https://orcid.org/0000-0002-3793-2122){target="_blank"}
-

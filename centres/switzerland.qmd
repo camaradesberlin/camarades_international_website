@@ -10,3 +10,26 @@ image: /images/camarades_switzerland.png
 ::: {.centre-photo}
 ![](/images/camarades_switzerland.png){fig-alt="CAMARADES Switzerland coordinating centre"}
 :::
+
+## Contact
+
+CAMARADES Switzerland  
+[Contact CAMARADES Switzerland](https://camarades.ch/team/){target="_blank"}
+
+## People
+
+::: {.coordinator-card}
+[![](/images/switzerland-ben.jpg){fig-alt="Benjamin Victor Ineichen"}](https://orcid.org/0000-0003-1362-4819){target="_blank"}
+
+::: {.coordinator-card-body}
+### [Benjamin Victor Ineichen](https://orcid.org/0000-0003-1362-4819){target="_blank"}
+
+::: {.coordinator-role}
+Centre coordinator
+:::
+
+::: {.person-orcid}
+[{{< fa brands orcid label="ORCID" >}} 0000-0003-1362-4819](https://orcid.org/0000-0003-1362-4819){target="_blank"}
+:::
+:::
+:::

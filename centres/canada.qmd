@@ -18,6 +18,24 @@ Ottawa Hospital Research Institute
 Ottawa, Ontario, Canada, K1H 8L6  
 [mlalu@toh.ca](mailto:mlalu@toh.ca)
 
+## People
+
+::: {.coordinator-card}
+[![](/images/canada-manoj.jpg){fig-alt="Manoj M Lalu"}](https://orcid.org/0000-0002-0322-382X){target="_blank"}
+
+::: {.coordinator-card-body}
+### [Manoj M Lalu](https://orcid.org/0000-0002-0322-382X){target="_blank"}
+
+::: {.coordinator-role}
+Centre coordinator
+:::
+
+::: {.person-orcid}
+[{{< fa brands orcid label="ORCID" >}} 0000-0002-0322-382X](https://orcid.org/0000-0002-0322-382X){target="_blank"}
+:::
+:::
+:::
+
 ## Ongoing projects
 
 - Preclinical systematic reviews of sepsis and acute lung injury
@@ -30,7 +48,3 @@ Ottawa, Ontario, Canada, K1H 8L6
 - Acute lung injury
 - Stroke
 - Transfusion
-
-## People and ORCID profiles
-
-- Manoj M Lalu: [{{< fa brands orcid label="ORCID" >}} 0000-0002-0322-382X](https://orcid.org/0000-0002-0322-382X){target="_blank"}

@@ -109,4 +109,62 @@ a {
   background: #fff;
   padding: 1rem;
 }
+
+.coordinator-card {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+  overflow: hidden;
+  border: 1px solid var(--bs-border-color);
+  border-radius: var(--bs-border-radius);
+  background: #fff;
+}
+
+.coordinator-card > p {
+  margin: 0;
+}
+
+.coordinator-card img {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+}
+
+.coordinator-card-body {
+  padding: 1rem 1rem 1rem 0;
+}
+
+.coordinator-card-body h3 {
+  margin-top: 0;
+}
+
+.coordinator-role,
+.person-orcid {
+  display: block;
+}
+
+.coordinator-role {
+  margin-bottom: 0.35rem;
+  color: $dark-gray;
+}
+
+.people-links {
+  margin-bottom: 1.5rem;
+}
+
+@media (max-width: 575.98px) {
+  .coordinator-card {
+    grid-template-columns: 1fr;
+  }
+
+  .coordinator-card img {
+    width: 100%;
+    height: auto;
+  }
+
+  .coordinator-card-body {
+    padding: 1rem;
+  }
+}
 /*-- scss:defaults --*/
