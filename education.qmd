@@ -6,8 +6,14 @@ listing:
     - "workshops/*.qmd"
   type: table
   sort: "date"
-  fields: [date, title, delivery]
-  filter-ui: [date, delivery]
+  fields: [date-display, title, delivery, registration, location]
+  field-display-names:
+    date-display: "Date"
+    title: "Title"
+    delivery: "Delivery"
+    registration: "Registration status"
+    location: "Location"
+  filter-ui: [date-display, title, delivery]
   categories: true
 ---
 

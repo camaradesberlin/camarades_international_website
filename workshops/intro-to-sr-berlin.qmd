@@ -4,8 +4,10 @@ delivery: "Synchronous"
 # description: "This is a workshop about stuff. "
 #      started: "Dec 2024"
 #      format: "Synchronous"
-country: "Online"
-date: "2025-11-10"
+location: "Online"
+date: 2026-09-24
+date-display: "Oct 6-8, 2026"
+registration: "Open"
 ---
 
 **Introduction to Systematic Review & Meta-Analysis of Animal Studies**
